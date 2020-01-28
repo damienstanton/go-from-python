@@ -25,3 +25,7 @@ Explore with Jupyter Notebook:
 ```sh
 $ jupyter notebook # then open example.ipynb
 ```
+
+© 2020 Damien Stanton
+
+See LICENSE for details.
